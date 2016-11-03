@@ -4,6 +4,8 @@ An introduction to CSS Grid Layout Module Level 1 by James Myers @Odecee on 27th
 
 This the slide deck from my presentation on the CSS Grid Layout which should become a W3C recommendation sometime in 2017.
 
+The presentation is located here - [An introduction to CSS Grid Layout](https://tagbliss.github.io/css-grids-presentation/#/)
+
 ## Resources
 
 [W3C CSS Grid Layout Module Level 1](https://www.w3.org/TR/2016/CR-css-grid-1-20160929/)
