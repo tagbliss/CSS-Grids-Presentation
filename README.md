@@ -22,6 +22,8 @@ The presentation is located here - [An introduction to CSS Grid Layout](https://
 
 These are a couple of examples of layout created using CSS Grid Layout. Please ensure that you use a browser that supports this functionality. [Can I Use - CSS Grid Layout](http://caniuse.com/#feat=css-grid).
 
-[Simple Layout](http://codepen.io/tagbliss/pen/ZpgZXW)
+[Code Pen CSS Grid Layout Level 1 collection](http://codepen.io/tagbliss/collections/public/)
+
+[Simple Layout](http://codepen.io/tagbliss/pen/PboWep)
 
 [Standard Layout](http://codepen.io/tagbliss/pen/LRwvOO)
